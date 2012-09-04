@@ -22,7 +22,7 @@ You can then run the game using:
 
 `java cpsc101.team3.scorefour.Referee`
 
-If you'd just like to download and run the game without having to build it, instructions on how to do so are available at http://www.mlindgren.ca/projects/score-four.
+If you'd just like to download and run the game without having to build it, instructions on how to do so are available at http://www.mlindgren.ca/blog/projects/score-four.
 
 ## How to Play
 
